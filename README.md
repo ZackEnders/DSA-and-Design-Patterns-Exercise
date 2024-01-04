@@ -27,8 +27,6 @@ Make sure that you actually want to learn these topics before committing. Each w
 - Optional: Do the included practice challenges (NeetCode/GeeksforGeeks/leetcode) for the specific Data Structure
 - Optional: Do the work in TS & JS (I will mostly be using TS personally)
 
-**Note about JS files:** If you're using js for this exercise, please note that we're using `.mjs` files for this project. If you have an questions about that, let me know.. It's mainly to simplify the run process.
-
 **Future Stuff:**
 
 - After 2-3 months of this flow maybe we'll start adding in some algorithms each week?
@@ -47,7 +45,7 @@ For week-1 I included example code for both the TS and JS versions of the Data S
 
 **Included Files:**
 
-Each week will have it's own directory with mjs/ts files, `NOTES.md` and `README.md`. The `NOTES.md` file is so you can keep notes about the Data Structure and Design Pattern that we're learning about that week. You should also put discussion points / questions for our weekly meeting in that file. The `README.md` file will have all the information that is necessary for that weeks Data Structure and Design Pattern exercise. It will include resources that I came across while putting this repository together. However, you don't need to use those resources for learning the topics. Feel free to look up your own information so you can learn the topics in a way that works best for you. Just remember that if you do use your own resources; please keep track of the videos/articles so you can share them during the weekly meeting. Other people might find them helpful and we can add them to this repository.
+Each week will have it's own directory with js/ts files, `NOTES.md` and `README.md`. The `NOTES.md` file is so you can keep notes about the Data Structure and Design Pattern that we're learning about that week. You should also put discussion points / questions for our weekly meeting in that file. The `README.md` file will have all the information that is necessary for that weeks Data Structure and Design Pattern exercise. It will include resources that I came across while putting this repository together. However, you don't need to use those resources for learning the topics. Feel free to look up your own information so you can learn the topics in a way that works best for you. Just remember that if you do use your own resources; please keep track of the videos/articles so you can share them during the weekly meeting. Other people might find them helpful and we can add them to this repository.
 
 You'll notice that some weeks might have multiple Data Structure files e.g. Queue and Circular Queue. When you see this don't freak out! The Data Structures are very similar to each other, so similar that I decided that studying the variant for a week would be a waste of time. They require a small modification of the main Data Structure. e.g. "In linear queue, insertion is done from the rear end, and deletion is done from the front end. In circular queue, the insertion and deletion can take place from any end. The memory space occupied by the linear queue is more than the circular queue.".
 

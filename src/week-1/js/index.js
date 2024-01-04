@@ -1,5 +1,5 @@
-import { SingletonInstance } from './Singleton.mjs';
-import { Stack } from './Stack.mjs';
+import { SingletonInstance } from './Singleton.js';
+import { Stack } from './Stack.js';
 
 // Singleton Example
 const s1 = SingletonInstance.getInstance();
