@@ -1,0 +1,54 @@
+{
+  "name": "dsa-and-design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "week:1:js": "nodemon --watch src/week-1 --ext mjs --exec node src/week-1/js/index.mjs",
+    "week:1:ts": "nodemon --watch src/week-1 --ext ts --exec ts-node src/week-1/ts/index.ts",
+    "week:2:js": "nodemon --watch src/week-2 --ext js --exec js-node src/week-2/js/index.js",
+    "week:2:ts": "nodemon --watch src/week-2 --ext ts --exec ts-node src/week-2/ts/index.ts",
+    "week:3": "nodemon --watch src/week-3 --ext ts --exec ts-node src/week-3/index.ts",
+    "week:4": "nodemon --watch src/week-4 --ext ts --exec ts-node src/week-4/index.ts",
+    "week:5": "nodemon --watch src/week-5 --ext ts --exec ts-node src/week-5/index.ts",
+    "week:6": "nodemon --watch src/week-6 --ext ts --exec ts-node src/week-6/index.ts",
+    "week:7": "nodemon --watch src/week-7 --ext ts --exec ts-node src/week-7/index.ts",
+    "format": "prettier --write \"**/*.{ts,md,json}\"",
+    "update": "pnpm update --latest --recursive -i",
+    "release:major": "standard-version --release-as major",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:push": "git push --follow-tags origin main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "@types/node": "^20.10.5",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint": "^8.55.0",
+    "eslint-config-prettier": "^9.1.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.0",
+    "standard-version": "^9.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "lint-staged": {
+    "apps/**/*.{ts,tsx}": [
+      "eslint --fix"
+    ],
+    "packages/**/*.{ts,tsx}": [
+      "eslint --fix",
+      "prettier --write --concurrent false"
+    ],
+    "*.json": [
+      "prettier --write"
+    ]
+  }
+}
