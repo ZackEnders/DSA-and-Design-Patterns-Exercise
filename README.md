@@ -58,13 +58,13 @@ Each week has it's own command, as well as, JS and TS.
 To run TS you'll run the following command with the proper week #:
 
 ```
-npm run week:1:ts
+npm start --week=1 --lang=ts
 ```
 
 To run JS you'll run the following command with the proper week #:
 
 ```
-npm run week:1:js
+npm start --week=1 --lang=js
 ```
 
 ## General Resources
