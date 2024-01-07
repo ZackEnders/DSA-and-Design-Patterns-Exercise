@@ -28,4 +28,45 @@ You'll also find that there are `Big-θ (Big-Theta) notation` and `Big-Ω (Big-O
 
 Just knowing how to work with Arrays and Strings is going to be really beneficial for this exercise. Make sure you understand the methods that are available for each Data Structure. If you want to deep dive / go above and beyond on how these are stored in JS then feel free to do so.
 
-- Data Structures: [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String), [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+**Data Structures:**
+
+- [Difference between linear and non linear](https://www.geeksforgeeks.org/difference-between-linear-and-non-linear-data-structures/)
+- [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+- [Applications, Advantages, and Disadvantages of String](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-string/)
+- [Applications, Advantages, and Disadvantages of Array](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-array-data-structure/)
+- [Applications, Advantages, and Disadvantages of Set](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-set/)
+
+- [Array Challenges](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
+- [Array Challenges](https://neetcode.io/practice)
+- [String Challenges](https://leetcode.com/tag/string/)
+
+## Composition and OOP Principles
+
+If you play to do this in TypeScript it would still be a good idea to review the JavaScript versions of these articles.
+
+**Javascript:**
+
+- [Inheritance in JS](https://programiz.com/javascript/inheritance)
+- [Composition in JS](https://www.geeksforgeeks.org/what-are-the-class-compositions-in-javascript/)
+- [Difference between Composition and Inheritance in JS](https://www.geeksforgeeks.org/difference-between-composition-and-inheritance-in-javascript/)
+- [Abstraction](https://www.techtarget.com/whatis/definition/abstraction#:~:text=Through%20the%20process%20of%20abstraction,original%2C%20with%20unwanted%20detail%20omitted.)
+- [Polymorphism in JS](https://www.geeksforgeeks.org/polymorphism-in-javascript/)
+- [Encapsulation in JS](https://www.geeksforgeeks.org/encapsulation-in-javascript/)
+
+**TypeScript:**
+
+- [Inheritance in TS](https://blog.jetbrains.com/webstorm/2019/02/write-object-oriented-typescript-inheritance/)
+- [Composition in TS](https://www.koderhq.com/tutorial/typescript/composition/)
+- [Abstraction in TS](https://blog.jetbrains.com/webstorm/2019/02/write-object-oriented-typescript-abstraction/)
+- [Encapsulation in TS](https://blog.jetbrains.com/webstorm/2019/03/write-object-oriented-typescript-encapsulation/)
+- [Object-Oriented Programming in TypeScript](https://birdeatsbug.com/blog/object-oriented-programming-in-typescript)
+  - Inheritance
+  - Encapsulation
+  - Polymorphism
+  - and more...
+
+## Other
+
+- [Recursion](https://www.programiz.com/javascript/recursion)

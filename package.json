@@ -32,18 +32,6 @@
     "typescript": "^5.3.3"
   },
   "engines": {
-    "node": ">=18.0.0"
-  },
-  "lint-staged": {
-    "apps/**/*.{ts,tsx}": [
-      "eslint --fix"
-    ],
-    "packages/**/*.{ts,tsx}": [
-      "eslint --fix",
-      "prettier --write --concurrent false"
-    ],
-    "*.json": [
-      "prettier --write"
-    ]
+    "node": ">=20.0.0"
   }
 }

@@ -8,6 +8,7 @@ Below are the resources for each topic and the optional coding challenges for Pr
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns/factory-method)
 - [JavaScript](https://www.dofactory.com/javascript/design-patterns/factory-method)
+- [GeeksforGeeks JS + Advantages & Disadvantages](https://www.geeksforgeeks.org/factory-method-in-javascript-design-pattern/)
 - [TypeScript](https://refactoring.guru/design-patterns/factory-method/typescript/example#example-0)
 - [YouTube (JS)](https://www.youtube.com/watch?v=kuirGzhGhyw&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=1)
 - [YouTube (TS)](https://www.youtube.com/live/JBu2ZTPgiKI?si=ArOg3rj7-PBC7DmM&t=714)
@@ -21,3 +22,4 @@ Below are the resources for each topic and the optional coding challenges for Pr
 ## Optional Priority Queue Challenges
 
 - [NeetCode](https://neetcode.io/practice)
+- [Leetcode](https://leetcode.com/tag/heap-priority-queue/)
