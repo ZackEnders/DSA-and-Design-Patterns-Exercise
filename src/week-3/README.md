@@ -1,8 +1,8 @@
 # Week 3
 
-This week we will be focusing on the Observer Design Pattern and the Circular Queue / Double Ended Queue (Deque) Data Structure. As a reminder the weeks that you have two Data Structures they are very similar in structure but slightly different functionality.
+This week we will be focusing on the Observer Design Pattern and the Linked List Data Structure.
 
-Below are the resources for each topic and the optional coding challenges for Circular Queue / Double Ended Queue (Deque).
+Below are the resources for each topic and the optional coding challenges for Linked List.
 
 ## Observer Resources
 
@@ -13,21 +13,17 @@ Below are the resources for each topic and the optional coding challenges for Ci
 - [YouTube (JS)](https://www.youtube.com/watch?v=45TeJEmcqk8&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=5)
 - [YouTube (TS)](https://www.youtube.com/live/JBu2ZTPgiKI?si=oU55Hr0_zdVwfvFQ&t=1167)
 
-## Circular Queue Resources
+## Linked List Resources
 
-- [Introduction to Circular Queue](https://www.geeksforgeeks.org/introduction-to-circular-queue/)
-- [Youtube (Circular Queue Overview)](https://www.youtube.com/watch?v=NuBWJ7kIlDg&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy&index=10)
-- [Youtube (Circular Queue Implementation)](https://www.youtube.com/watch?v=NuBWJ7kIlDg&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy&index=11)
-- [Applications, Advantages, and Disadvantages](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-circular-queue/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [GeeksforGeeks Linked List Implementation](https://www.geeksforgeeks.org/implementation-linkedlist-javascript/)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+- [Applications of Linked List](https://www.geeksforgeeks.org/applications-of-linked-list-data-structure/)
+- [Applications, Advantages, and Disadvantages](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/)
 
-## Double Ended Queue (Deque)
+## Optional Linked List Challenges
 
-- [GeeksforGeeks Deque](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/)
-- [Applications, Advantages, and Disadvantages](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-deque/)
-
-## Optional Circular Queue / Double Ended Queue (Deque) Challenges
-
-A little light this week on challenges.
-
-- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
-- [Deque](https://tipseason.com/coding-interview-question-patterns-3-dequeue-problems/)
+- [NeetCode](https://neetcode.io/practice)
+- [HackerRank](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/explore?page=1&category=Linked%20List&sortBy=submissions&category%5b%5d=Linked%20List)
+- [Leetcode](https://leetcode.com/tag/linked-list/)

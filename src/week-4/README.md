@@ -1,8 +1,8 @@
 # Week 4
 
-This week we will be focusing on the Factory Method Design Pattern and the Priority Queue Data Structure.
+This week we will be focusing on the Factory Method Design Pattern and the Hash Table (Hash Map) Data Structure.
 
-Below are the resources for each topic and the optional coding challenges for Priority Queue.
+Below are the resources for each topic and the optional coding challenges for the Hash Table (Hash Map) Data Structure.
 
 ## Factory Method Resources
 
@@ -13,13 +13,17 @@ Below are the resources for each topic and the optional coding challenges for Pr
 - [YouTube (JS)](https://www.youtube.com/watch?v=kuirGzhGhyw&list=PLFKDYTlP3abzwWleHq1WHcKyi8nCPY74s&index=1)
 - [YouTube (TS)](https://www.youtube.com/live/JBu2ZTPgiKI?si=ArOg3rj7-PBC7DmM&t=714)
 
-## Priority Queue Resources
+## Hash Table Resources
 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
-- [GeeksforGeeks Priority Queue Implementation](https://www.geeksforgeeks.org/implementation-priority-queue-javascript/)
-- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/priority-queue)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/hash-table-data-structure/)
+- [GeeksforGeeks Hashing in JS](https://www.geeksforgeeks.org/hashing-in-javascript/)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)
+- [Applications, Advantages, and Disadvantages](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-hash-data-structure/)
 
-## Optional Priority Queue Challenges
+## Optional Hash Table Challenges
 
 - [NeetCode](https://neetcode.io/practice)
-- [Leetcode](https://leetcode.com/tag/heap-priority-queue/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/explore?page=1&category=Hash&sortBy=submissions&category%5b%5d=Hash)
+- [Leetcode](https://leetcode.com/tag/hash-table/)
+
+

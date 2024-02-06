@@ -11,7 +11,3 @@ Below are the resources for each topic and the optional coding challenges for --
 - [GeeksforGeeks JS + Advantages & Disadvantages](https://www.geeksforgeeks.org/adapter-method-javascript-design-patterns/)
 - [TypeScript](https://refactoring.guru/design-patterns/adapter/typescript/example#example-0)
 - [YouTube TS](https://www.youtube.com/live/JBu2ZTPgiKI?si=omfLHHACJBYQe9DA&t=2612)
-
-## -- Resources
-
-## Optional -- Challenges
